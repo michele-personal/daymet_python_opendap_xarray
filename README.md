@@ -1,2 +1,2 @@
 # daymet_python_opendap_xarray
-Notebooks for Programmatic Access to Daymet V4 Data and Geospatial Analysis in Python and ArcGIS Pro 
+Notebooks for Programmatic OPeNDAP Access to Daymet V4 Data and Python Geospatial Packages
