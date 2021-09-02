@@ -1,2 +1,30 @@
-# daymet_python_opendap_xarray
-Notebooks for Programmatic OPeNDAP Access to Daymet V4 Data and Python Geospatial Packages
+# Toward Analysis Ready Data—Programmatically Discover, Access, and Subset Daymet V4 Data with Python and ArcGIS
+Notebooks from the NASA Earthdata webinar presented by ORNL DAAC in November 2021.
+
+**Author:** ORNL DAAC       
+**Date:** August 31, 2021       
+**Contact for the ORNL DAAC:** support-ornl.gov@earthdata.nasa.gov       
+
+**Keywords:** Daymet, netCDF, Python, OPeNDAP, Web Service, Pydap, Xarray, Geospatial       
+
+## Overview       
+
+The Daymet dataset available at NASA's Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC) provides long-term, continuous, gridded estimates of daily weather and climatology variables across North America. In this webinar, we’ll introduce participants to the recently released Daymet Version 4 Data Collection and provide information on how to access NASA data holdings to programmatically discover and subset Daymet data to a region and time period of interest.
+
+Researchers often require data such as Daymet that are formatted in multidimensional scientific formats but are not familiar with access methods that can allow them to programmatically search and discover as well as subset and download those data based on their own search parameters such as a regional and temporal area-of-interest. Demonstrated using NASA metadata API’s and Python programming techniques, we will provide examples using Jupyter Notebooks that will search, subset, and download Daymet V4 data. We’ll also demonstrate the use of Python libraries such as Xarray to create climatological data beyond what ORNL DAAC currently distributes. Thanks to a collaboration between the NASA DAACs and Esri, we’ll also demonstrate example Notebook workflows that perform spatial analysis using multidimensional tools and Daymet data in the ArcGIS environment.
+
+<img src="images\JuneAnomaly_saveas.PNG" width="750" style="display:block;margin-left: auto; margin-right:auto;">
+
+## Webinar
+The content in this repository was presented during a NASA Earthdata webinar in August 2021. More information can be found at the following link:
+https://daac.ornl.gov/resources/tutorials//
+
+## Procedure
+
+Links to the Notebooks presented in this webinar:        
+[1_daymetv4_discovery_access_subsetting.ipynb](1_daymetv4_discovery_access_subsetting.ipynb)
+      
+[2_daymetv4_normal_anomaly_conus.ipynb](2_daymetv4_normal_anomaly_conus.ipynb)
+
+## Related Tutorials
+More tutorials related to ORNL DAAC data and web services can be found at the [ORNL DAAC Resources](https://daac.ornl.gov/resources/) page.
