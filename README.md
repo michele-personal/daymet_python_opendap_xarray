@@ -25,5 +25,7 @@ Links to the Notebooks presented in this webinar:
       
 [2_daymetv4_normal_anomaly_conus.ipynb](2_daymetv4_normal_anomaly_conus.ipynb)
 
+[WineSuitability.ipynb](WineSuitability.ipynb)
+
 ## Related Tutorials
 More tutorials related to ORNL DAAC data and web services can be found at the [ORNL DAAC Resources](https://daac.ornl.gov/resources/) page.
