@@ -1,5 +1,4 @@
 # Toward Analysis Ready Data—Programmatically Discover, Access, and Subset Daymet V4 Data with Python and ArcGIS
-Notebooks from the NASA Earthdata webinar presented by ORNL DAAC in November 2021.
 
 **Author:** ORNL DAAC       
 **Date:** August 31, 2021       
@@ -8,10 +7,11 @@ Notebooks from the NASA Earthdata webinar presented by ORNL DAAC in November 202
 **Keywords:** Daymet, netCDF, Python, OPeNDAP, Web Service, Pydap, Xarray, Geospatial       
 
 ## Overview       
+These Notebooks were presented in a NASA Earthdata Webinar presented by the ORNL DAAC August 31, 2021.
 
-The Daymet dataset available at NASA's Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC) provides long-term, continuous, gridded estimates of daily weather and climatology variables across North America. In this webinar, we’ll introduce participants to the recently released Daymet Version 4 Data Collection and provide information on how to access NASA data holdings to programmatically discover and subset Daymet data to a region and time period of interest.
+The Daymet dataset available at NASA's Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC) provides long-term, continuous, gridded estimates of daily weather and climatology variables across North America. In the webinar, we introduced participants to the recently released Daymet Version 4 Data Collection and provided information on how to access NASA data holdings to programmatically discover and subset Daymet data to a region and time period of interest.
 
-Researchers often require data such as Daymet that are formatted in multidimensional scientific formats but are not familiar with access methods that can allow them to programmatically search and discover as well as subset and download those data based on their own search parameters such as a regional and temporal area-of-interest. Demonstrated using NASA metadata API’s and Python programming techniques, we will provide examples using Jupyter Notebooks that will search, subset, and download Daymet V4 data. We’ll also demonstrate the use of Python libraries such as Xarray to create climatological data beyond what ORNL DAAC currently distributes. Thanks to a collaboration between the NASA DAACs and Esri, we’ll also demonstrate example Notebook workflows that perform spatial analysis using multidimensional tools and Daymet data in the ArcGIS environment.
+Researchers often require data such as Daymet that are formatted in multidimensional scientific formats but are not familiar with access methods that can allow them to programmatically search and discover as well as subset and download those data based on their own search parameters such as a regional and temporal area-of-interest. Demonstrated using NASA metadata API’s and Python Geospatial programming techniques, we provide examples using Jupyter Notebooks that search, subset, and download Daymet V4 data. We also demonstrate the use of Python Geospatial libraries such as Xarray to create climatological data. Thanks to a collaboration between the NASA DAACs and Esri, we also demonstrate an example ArcGIS Notebook workflow that perform spatial analysis using multidimensional tools with Daymet data in the ArcGIS environment.
 
 <img src="images\JuneAnomaly_saveas.PNG" width="750" style="display:block;margin-left: auto; margin-right:auto;">
 
