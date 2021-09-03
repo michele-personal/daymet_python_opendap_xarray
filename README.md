@@ -22,10 +22,10 @@ The content in this repository was presented during a NASA Earthdata webinar in 
 
 Links to Notebooks presented in this webinar:
 
-[1_daymetv4_discovery_access_subsetting.ipynb](1_daymetv4_discovery_access_subsetting.ipynb)     
-[2_daymetv4_normal_anomaly_conus.ipynb](2_daymetv4_normal_anomaly_conus.ipynb)
+Jupyter Notebook: [1_daymetv4_discovery_access_subsetting.ipynb](1_daymetv4_discovery_access_subsetting.ipynb)     
+Juptyer Notebook: [2_daymetv4_normal_anomaly_conus.ipynb](2_daymetv4_normal_anomaly_conus.ipynb)
 
-[WineSuitability.ipynb](WineSuitability.ipynb)
+ArcGIS Notebook:  [WineSuitability.ipynb](WineSuitability.ipynb)
 
 ## Related Tutorials
 More tutorials related to ORNL DAAC data and web services can be found at the [ORNL DAAC Resources](https://daac.ornl.gov/resources/) page.
