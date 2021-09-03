@@ -20,11 +20,10 @@ The content in this repository was presented during a NASA Earthdata webinar in 
 
 ## Procedure
 
-Links to the Notebooks presented in this webinar:        
-[1_daymetv4_discovery_access_subsetting.ipynb](1_daymetv4_discovery_access_subsetting.ipynb)
-      
-[2_daymetv4_normal_anomaly_conus.ipynb](2_daymetv4_normal_anomaly_conus.ipynb)
+Links to Notebooks presented in this webinar:
 
+[1_daymetv4_discovery_access_subsetting.ipynb](1_daymetv4_discovery_access_subsetting.ipynb)     
+[2_daymetv4_normal_anomaly_conus.ipynb](2_daymetv4_normal_anomaly_conus.ipynb)
 [WineSuitability.ipynb](WineSuitability.ipynb)
 
 ## Related Tutorials
