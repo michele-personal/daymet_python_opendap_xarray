@@ -16,8 +16,7 @@ Researchers often require data such as Daymet that are formatted in multidimensi
 <img src="images\JuneAnomaly_saveas.PNG" width="750" style="display:block;margin-left: auto; margin-right:auto;">
 
 ## Webinar
-The content in this repository was presented during a NASA Earthdata webinar in August 2021. More information can be found at the following link:
-https://daac.ornl.gov/resources/tutorials//
+The content in this repository was presented during a NASA Earthdata webinar in August 2021. A link to the webinar recording will be provided when it's available.
 
 ## Procedure
 
